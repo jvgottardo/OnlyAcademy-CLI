@@ -79,8 +79,8 @@ function App(): React.JSX.Element {
           <Text>uma mudanca</Text>
           <Text>no codigo</Text>
           <Text>merge via github</Text>
-          <Text>no codigo</Text>
-          <Text>no codigo</Text>
+          <Text>Merge via CMD</Text>
+          <Text>CMD</Text>
           <Section title="See Your Changes">
             <ReloadInstructions />
           </Section>
