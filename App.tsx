@@ -1,10 +1,4 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- */
-
+/* eslint-disable prettier/prettier */
 import React from 'react';
 import type {PropsWithChildren} from 'react';
 import {
@@ -83,6 +77,9 @@ function App(): React.JSX.Element {
           <Text>Testando meu aplicativo</Text>
           <Text>Aplicando</Text>
           <Text>uma mudanca</Text>
+          <Text>no codigo</Text>
+          <Text>merge via github</Text>
+          <Text>no codigo</Text>
           <Text>no codigo</Text>
           <Section title="See Your Changes">
             <ReloadInstructions />
