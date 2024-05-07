@@ -75,12 +75,6 @@ function App(): React.JSX.Element {
             screen and then come back to see your edits.
           </Section>
           <Text>Testando meu aplicativo</Text>
-          <Text>Aplicando</Text>
-          <Text>uma mudanca</Text>
-          <Text>no codigo</Text>
-          <Text>merge via github</Text>
-          <Text>Merge via CMD</Text>
-          <Text>CMD</Text>
           <Section title="See Your Changes">
             <ReloadInstructions />
           </Section>
